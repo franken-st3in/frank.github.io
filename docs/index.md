@@ -6,7 +6,7 @@ Welcome! This website serves as my public digital brain. It documents my progres
 
 ## 📚 Current Courses & Full Curriculums Compiled by ME
 
-These are the foundational university courses I am currently working through:
+*These are the university courses I am currently working through:*
 
 * **Math** — [Curriculum](https://docs.google.com/document/d/1smE3licMGXM4-GCKCJn0YW2eHHsWNRFu0ZxKaUnDHC4/edit?usp=sharing)
     * [Khan Academy - Pre-Algebra](pre-algebra.md)
