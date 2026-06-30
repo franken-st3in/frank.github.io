@@ -2,6 +2,8 @@ site_name: EECS-Self-Learning
 theme:
   name: material
   palette:
-    scheme: slate # This enables the sleek dark mode
+    scheme: slate
 nav:
   - Home: index.md
+  - Courses:
+    - MIT 6.100L: 6100L.md
