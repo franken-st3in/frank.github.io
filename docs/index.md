@@ -8,12 +8,6 @@ Welcome! This website serves as my public digital brain. It documents my progres
 
 *These are the university courses I am currently working through:*
 
-* **Math** — [Curriculum](https://docs.google.com/document/d/1smE3licMGXM4-GCKCJn0YW2eHHsWNRFu0ZxKaUnDHC4/edit?usp=sharing)
-    * [Khan Academy - Pre-Algebra](pre-algebra.md)
-* **Physics** — [Curriculum](https://docs.google.com/document/d/1KMRp3mXtmot_eRaXWCvwlmsU74myLXbtSuCudwygzDA/edit?usp=sharing)
-    * [MIT 8.006: Exploring Physics Using Python](8-006.md)
-* **Electrical Engineering** — [Curriculum](https://docs.google.com/document/d/1rwCdXc2FVdIXRsnyKKDUXA65T-FGdpgHotvO0f2VokE/edit?usp=sharing)
-    * [MIT 6.002: Circuits and Electronics](6-002.md)
 * **Computer Science** — [Curriculum](https://docs.google.com/document/d/1ttIbrxGfIvuR635CbM_KxRH74Sqab-k9ZyMnBaKZ4BI/edit?usp=sharing)
     * [MIT 6.100L: Intro to CS and Programming using Python](6-100L.md)
 
