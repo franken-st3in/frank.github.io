@@ -54,7 +54,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/franken-st3in
       name: Check out my GitHub
-    - icon: fontawesome/brands/twitter
+    - icon: fontawesome/brands/x-twitter
       link: https://x.com/frank_3nst3in 
       name: Follow me on Twitter
     - icon: fontawesome/brands/discord
