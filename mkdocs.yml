@@ -1,0 +1,7 @@
+site_name: EECS-Self-Learning
+theme:
+  name: material
+  palette:
+    scheme: slate # This enables the sleek dark mode
+nav:
+  - Home: index.md
