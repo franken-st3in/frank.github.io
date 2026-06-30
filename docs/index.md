@@ -1,6 +1,6 @@
-# Welcome to My Academic Portfolio
+# Welcome to My EECS Portfolio
 
-Welcome! This website serves as my public digital brain. It documents my progress as I self-teach Computer Science, Electrical Engineering, Math, Physics, Economics, & Finance while also hosting my personal tech blogs, vlog(maybe), research notes, and a directory of my favorite learning resources.
+Welcome! This website serves as my public digital brain. It documents my progress as I self-teach Computer Science, Electrical Engineering, Math, & Physics while also hosting my personal tech blogs, vlogs(maybe), research notes, and a directory of my favorite learning resources.
 
 ---
 
