@@ -6,4 +6,4 @@ theme:
 nav:
   - Home: index.md
   - Courses:
-    - MIT 6.100L: docs/6100L.md
+    - MIT 6.100L: docs/6-100L.md
