@@ -87,5 +87,11 @@ extra:
 
 nav:
   - Home: index.md
-  - Courses:
-    - MIT 6.100L: 6-100L.md
+- Courses:
+    - MIT 6.100L:
+      - Course Syllabus & Hub: 6-100L.md
+      - Lecture Notes: 6-100L/lecture-notes.md
+      - Code Snippets: 6-100L/code-snippets.md
+      - Problem Sets:  6-100L/psets.md
+      - Projects: 6-100L/projects.md
+      - Course Research: 6-100L/research.md
