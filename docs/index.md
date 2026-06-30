@@ -1,6 +1,6 @@
-# Welcome to My EECS Portfolio & Digital Garden
+# Welcome to My Academic Portfolio
 
-Welcome! This website serves as my public digital brain. It documents my progress as I self-teach Computer Science, Electrical Engineering, Math, Physics, Economics, & Financ while also hosting my personal tech blog, vlog(maybe), research notes, and a directory of my favorite learning resources.
+Welcome! This website serves as my public digital brain. It documents my progress as I self-teach Computer Science, Electrical Engineering, Math, Physics, Economics, & Finance while also hosting my personal tech blogs, vlog(maybe), research notes, and a directory of my favorite learning resources.
 
 ---
 
@@ -84,3 +84,14 @@ I don't just write code; I write about tech. Here are my latest breakdowns of cu
   * **[Build your own X](https://github.com/codecrafters-io/build-your-own-x)** (This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.)
 
   * **[OpenSecurity Training2](https://p.ost2.fyi/courses):** A gold mine for Reverse engineering. My 3rd favorite. lol!
+
+
+## 🏛️ Academic Institutions & Platforms
+I am incredibly grateful to the world-class universities and digital platforms that make their high-level curriculums available to the public. The coursework, lectures, and resources documented on this site are heavily sourced from:
+
+* **Universities:** 
+    * [MIT](https://ocw.mit.edu/), * [Stanford University](https://online.stanford.edu/), * [Yale University](https://oyc.yale.edu/),
+* [UC Berkeley](https://extension.berkeley.edu/), * [Harvard University](https://pll.harvard.edu/), * [ETH Zurich](https://ethz.ch/en.html), * [Wharton School of the University of Pennsylvania](https://online.wharton.upenn.edu/)
+
+* **Learning Platforms:** 
+    * [Coursera](https://www.coursera.org/), * [edX](https://www.edx.org/)
