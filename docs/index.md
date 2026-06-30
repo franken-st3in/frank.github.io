@@ -73,7 +73,7 @@ I don't just write code; I write about tech. Here are my latest breakdowns of cu
 ## 🛠️ Resource Libraries
 *Where I source my textbooks, documentation, lectures, and research papers:*
 
-  * **Z-Library(https://z-library.co/?__cf_chl_f_tk=ACAzuGSOkeitvck93lO_0eBPjzMq12mCrFhbC9lj6K0-1782811194-1.0.1.1-E5mEVW7ET8GR8JZxu87.jHNeMdd2KObacvOjtX6.of0)** (Digital library for textbooks)
+  * **[Z-Library](https://z-library.co/?__cf_chl_f_tk=ACAzuGSOkeitvck93lO_0eBPjzMq12mCrFhbC9lj6K0-1782811194-1.0.1.1-E5mEVW7ET8GR8JZxu87.jHNeMdd2KObacvOjtX6.of0)** (Digital library for textbooks)
 
   * **[Anna's Archive](https://annas-archive.gl/)** (Open-source search engine for papers and books)
 
