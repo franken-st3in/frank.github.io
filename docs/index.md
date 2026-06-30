@@ -7,34 +7,34 @@ Welcome! This website serves as my public digital brain. It documents my progres
 ## 📚 Current Courses & Full Curriculums Compiled by ME...
 These are the foundational university courses I am currently working through:
   # Math, [Curriculum]()
-  * **[Khan Academy - Pre-Algebra](pre-algebra.md)**
+    * **[Khan Academy - Pre-Algebra](pre-algebra.md)**
 
   # Physics, [Curriculum]()
-  * **[MIT 8.006 Exploring Physics Using Python](8-006.md)**
+    * **[MIT 8.006 Exploring Physics Using Python](8-006.md)**
     
   # Electrical Engineering, [Curriculum]()
-  * **[MIT 6.002: Circuits and Electronics](6-002.md)**
+    * **[MIT 6.002: Circuits and Electronics](6-002.md)**
   
   # Computer Science, [Curriculum]()
-  * **[MIT 6.100L: Intro to CS and Programming using Python](6-100L.md)**
+    * **[MIT 6.100L: Intro to CS and Programming using Python](6-100L.md)**
   
   # Economics, [Curriculum]()
-  * **[MIT 14.01SC Principles of Microeconomics](14-01sc.md)**
+    * **[MIT 14.01SC Principles of Microeconomics](14-01sc.md)**
   
   # Finance, [Curriculum]()
-  * **[Yale: ECON 252 - Financial Markets 2011 with Robert Shiller](econ-252.md)**
+    * **[Yale: ECON 252 - Financial Markets 2011 with Robert Shiller](econ-252.md)**
   
   # Philosophy, [Curriculum]()
-  * **[MIT 24.93 The Search for Meaning](24-93.md)**
+    * **[MIT 24.93 The Search for Meaning](24-93.md)**
   
   # Literature, [Curriculum]()
-  * **[MIT 21L.000[J] Writing About Literature ](21L-000[J].md)**
+    * **[MIT 21L.000[J] Writing About Literature ](21L-000[J].md)**
   
   # Political Science, [Curriculum]()
-  * **[MIT 17.000[J] Political Philosophy](17-000[J].md)**
+    * **[MIT 17.000[J] Political Philosophy](17-000[J].md)**
   
   # Brain & Cognitive Science, [Curriculum]()
-  * **[MIT 9.00 Introduction to Psychological Science](9-00.md)**
+    * **[MIT 9.00 Introduction to Psychological Science](9-00.md)**
 
 ## 🔬 Research & Projects
 Beyond coursework, I actively explore specific tech domains and participate in independent research. 
