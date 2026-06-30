@@ -90,8 +90,26 @@ I don't just write code; I write about tech. Here are my latest breakdowns of cu
 I am incredibly grateful to the world-class universities and digital platforms that make their high-level curriculums available to the public. The coursework, lectures, and resources documented on this site are heavily sourced from:
 
 * **Universities:** 
-    * [MIT](https://ocw.mit.edu/), * [Stanford University](https://online.stanford.edu/), * [Yale University](https://oyc.yale.edu/),
-* [UC Berkeley](https://extension.berkeley.edu/), * [Harvard University](https://pll.harvard.edu/), * [ETH Zurich](https://ethz.ch/en.html), * [Wharton School of the University of Pennsylvania](https://online.wharton.upenn.edu/)
+    * [MIT](https://ocw.mit.edu/)
+    
+    * [Stanford University](https://online.stanford.edu/)
+    
+    * [Yale University](https://oyc.yale.edu/)
+      
+    * [UC Berkeley](https://extension.berkeley.edu/)
+    
+    * [Harvard University](https://pll.harvard.edu/)
+      
+    * [ETH Zurich](https://ethz.ch/en.html)
+      
+    * [Wharton School of the University of Pennsylvania](https://online.wharton.upenn.edu/)
+      
+    * [Carnegie Mellon University](https://oli.cmu.edu/independent-learner-courses/)
+
 
 * **Learning Platforms:** 
-    * [Coursera](https://www.coursera.org/), * [edX](https://www.edx.org/)
+    * [Coursera](https://www.coursera.org/)
+      
+    * [edX](https://www.edx.org/)
+      
+    * [MITx](https://mitxonline.mit.edu/dashboard/)
