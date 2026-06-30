@@ -1,32 +1,59 @@
-site_name: EECS-Self-Learning
+site_name: Francis's EECS Journey
+site_author: Francis Mbugua
+site_description: Documenting my core EECS self-learning path from Kenya.
+
 repo_name: franken-st3in/frank.github.io
-repo_url: https://github.com/franken-st3in/frank.github.io # Adds the GitHub logo top right
+repo_url: https://github.com/franken-st3in/frank.github.io/
+
+copyright: Copyright &copy; 2026-present Francis Mbugua
 
 theme:
   name: material
+  language: en
   features:
-    - navigation.top       # Adds a "back to top" button when scrolling
-    - search.suggest       # Makes the search bar smarter
-    - search.highlight     # Highlights your search terms
+    - header.autohide
+    - navigation.tracking
+    - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
   palette:
     # Light Mode Settings
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: cyan        # This gives you that exact cyan top bar!
-      accent: blue
+      primary: light blue
+      accent: deep purple
       toggle:
-        icon: material/weather-night
+        icon: material/weather-sunny
         name: Switch to dark mode
     # Dark Mode Settings
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: cyan
-      accent: blue
+      accent: deep purple
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-night
         name: Switch to light mode
+  font:
+    text: Roboto Slab
+    code: Roboto Mono
+  icon:
+    repo: fontawesome/brands/github
 
-# Your navigation stays exactly the same down here
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - footnotes
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/franken-st3in/
+
 nav:
   - Home: index.md
   - Courses:
