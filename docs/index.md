@@ -9,8 +9,10 @@ Welcome! This website serves as my public digital brain. It documents my progres
 These are the foundational university courses I am currently working through:
 
 * **Math** — [Curriculum]()
+  
     * [Khan Academy - Pre-Algebra](pre-algebra.md)
 * **Physics** — [Curriculum]()
+  
     * [MIT 8.006: Exploring Physics Using Python](8-006.md)
 * **Electrical Engineering** — [Curriculum]()
     * [MIT 6.002: Circuits and Electronics](6-002.md)
