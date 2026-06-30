@@ -16,18 +16,6 @@ These are the foundational university courses I am currently working through:
     * [MIT 6.002: Circuits and Electronics](6-002.md)
 * **Computer Science** — [Curriculum](https://docs.google.com/document/d/1ttIbrxGfIvuR635CbM_KxRH74Sqab-k9ZyMnBaKZ4BI/edit?usp=sharing)
     * [MIT 6.100L: Intro to CS and Programming using Python](6-100L.md)
-* **Economics** — [Curriculum](https://docs.google.com/document/d/1J6H6lFj1XrS5S2TpfPL8hnkisFM2_rzL6RX5KtdFJ7U/edit?usp=sharing)
-    * [MIT 14.01SC: Principles of Microeconomics](14-01sc.md)
-* **Finance** — [Curriculum](https://docs.google.com/document/d/1naV2c0x2AC6_6cqQ3n-TTqJcjrnNVhpK6hfTP7mDK2Y/edit?usp=sharing)
-    * [Yale: ECON 252 - Financial Markets 2011 with Robert Shiller](econ-252.md)
-* **Philosophy** — [Curriculum](https://docs.google.com/document/d/1n57GMRw3Q2V07VrsaFICOHzzo_akmsJDmbscQUQeDRE/edit?usp=sharing)
-    * [MIT 24.93 The Search for Meaning](24-93.md)
-* **Literature** — [Curriculum](https://docs.google.com/document/d/1y7xFLWhyY0rvR3HyEgKN5s6R4WIXNd5Pva6RQUM__58/edit?usp=sharing)
-    * [MIT 21L.000[J] Writing About Literature](21L-000.md)
-* **Political Science** — [Curriculum](https://docs.google.com/document/d/11U0s0uXl93befhDqzhFLOaxWydYDJ2kv-eze2X-_SbI/edit?usp=sharing)
-    * [MIT 17.000[J] Political Philosophy](17-000.md)
-* **Brain & Cognitive Science** — [Curriculum](https://docs.google.com/document/d/1_mU8aowRBaqwh4T9KqTJJBIcht_EtPhSuvnpb2QrkXI/edit?usp=sharing)
-    * [MIT 9.00 Introduction to Psychological Science](9-00.md)
 
 ## 🔬 Research & Projects
 Beyond coursework, I actively explore specific tech domains and participate in independent research. 
