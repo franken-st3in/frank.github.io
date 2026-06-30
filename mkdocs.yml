@@ -86,7 +86,7 @@ extra:
       name: Connect with me on Facebook
 
 nav:
-  - Home: index.md
+- Home: index.md
 - Courses:
     - MIT 6.100L:
       - Course Syllabus & Hub: 6-100L.md
